@@ -1,1 +1,1 @@
-# js-array-prototype-extensions
+# js-prototype-extensions
